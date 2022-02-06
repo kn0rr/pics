@@ -1,5 +1,7 @@
 # About this Project
 
+This project is fully based on the Udemy Course [Modern React with Redux](https://www.udemy.com/course/react-redux/).
+
 ## How it should look like
 ![mockup](img/mockup.png)
 
@@ -12,3 +14,4 @@ The app shows a list of image which are rendered based on their independent sizi
 
 ## How to Render Image nicely
 ![CardStyle](img/CardStyle.png)
+
